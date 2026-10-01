@@ -98,3 +98,20 @@ The repository contains screenshots of:
 **WORKFLOW OF HM-OS.mp4**
 
 The video demonstrates the complete working flow of the Hospital Management & Operations System.
+
+#PROJECT STRUCTURE
+
+HOSPITAL-MANAGEMENT-OPERATIONS-SYSTEM
+│
+├── SRC
+│   ├── ZHM_HOSPITAL_SYSTEM_2519.abap
+│   └── ZHM_APPT_DETAIL_2519.abap
+│
+├── TABLES
+│   ├── ZPATIENT_4402.abap
+│   ├── ZDOCTOR_4402.abap
+│   └── ZAPPOINT_2519.abap
+│
+├── SCREENSHOTS
+│
+└── WORKFLOW OF HM-OS.mp4
